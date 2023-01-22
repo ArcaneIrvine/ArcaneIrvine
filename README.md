@@ -7,4 +7,4 @@
 -  You can contact me at efth.stavros@gmail.com
 
 ## my github stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api? username=ArcaneIrvine&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArcaneIrvine&theme=tokyonight)
