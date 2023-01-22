@@ -9,4 +9,4 @@
 ### my github stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArcaneIrvine&theme=tokyonight)
 <br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArcaneIrvine)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArcaneIrvine&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
