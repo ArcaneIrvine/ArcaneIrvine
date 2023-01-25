@@ -3,7 +3,7 @@
 - 🌍 I'm based in Greece
 - 🦾 I'm currently working on my [AI chat bot web application](https://github.com/ArcaneIrvine/Artificial-Intelligent_chatbot_application)
 - 🧠 I'm currently learning data analysis web development and AI
-- 🫶🏻 I'm open to collaborating on interesting and fun projects
+- 👾 I'm open to collaborating on interesting and fun projects
 - 📬 You can contact me at efth.stavros@gmail.com
 
 ### my github stats
