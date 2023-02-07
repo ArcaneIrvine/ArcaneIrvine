@@ -1,7 +1,7 @@
 ## Hello 👋🏻 my name is Stavros and i am a computer science student
 
 - 🌍 I'm based in Greece
-- 🦾 I'm currently working on my [Deep NN Classifier]([https://github.com/ArcaneIrvine/Artificial-Intelligent_chatbot_application](https://github.com/ArcaneIrvine/cat_dog_classifier))
+- 🦾 I'm currently working on my [Deep NN Classifier]([https://github.com/ArcaneIrvine/cat_dog_classifier])
 - 🧠 I'm currently learning data analysis web development and AI
 - 👾 I'm open to collaborating on interesting and fun projects
 - 📬 You can contact me at efth.stavros@gmail.com
