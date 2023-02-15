@@ -6,7 +6,7 @@
 - 👾 I'm open to collaborating on interesting and fun projects
 - 📬 You can contact me at efth.stavros@gmail.com
 
-### my github stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArcaneIrvine&theme=tokyonight)
+https://github.com/ArcaneIrvine?tab=repositories&q=&type=&language=python
 
+### my github stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ArcaneIrvine&show_icons=true&theme=tokyonight&hide=contribs)
