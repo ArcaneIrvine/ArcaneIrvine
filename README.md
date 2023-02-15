@@ -8,3 +8,5 @@
 
 ### my github stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArcaneIrvine&theme=tokyonight)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ArcaneIrvine&show_icons=true&theme=tokyonight&hide=contribs)
