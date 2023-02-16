@@ -1,7 +1,8 @@
 ## Hello 👋🏻 my name is Stavros and i am a computer science student
 
 - 🌍 I'm based in Greece
-- 📊 I aspire to become a Python Data Engineer
+- 📊 Python Data Engineer in the making
+- 🦾 I'm currently working on a reinforced learning gaming model
 - 🧠 I'm currently learning Data Science and Deep Learning
 - 👾 I'm open to collaborating on interesting and fun projects
 - 📬 You can contact me at efth.stavros@gmail.com
