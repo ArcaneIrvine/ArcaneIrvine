@@ -2,8 +2,7 @@
 
 - 🌍 I'm based in Greece
 - 📊 I'm a Data Scientist in the making
-- 🦾 I'm currently working on a reinforced learning gaming model
-- 🧠 I'm currently learning Data Science and Deep Learning
+- 🧠 I'm currently learning Machine Learning and AI
 - 👾 I'm open to collaborating on interesting and fun projects
 - 📬 You can contact me at efth.stavros@gmail.com
 
