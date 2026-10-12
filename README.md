@@ -1,6 +1,6 @@
 # 👋 This account has moved
 
-I now use **[@NEWNAME](https://github.com/stavrosefth)**.
+I now use **[@stavrosefth](https://github.com/stavrosefth)**.
 
 All my projects are there, and links to my old repositories redirect automatically.
 
